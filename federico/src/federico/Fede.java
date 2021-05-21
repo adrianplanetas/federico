@@ -20,5 +20,9 @@ public class Fede {
 		return acertada;
 		
 		}
+	public boolean visualsizarSaliddaa(boolean acertada, int i, String newParam) {
+		return acertada;
+		
+		}
 
 }
