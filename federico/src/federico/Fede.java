@@ -11,7 +11,12 @@ public class Fede {
 		// TODO Auto-generated method stub
 		System.out.println();
 	}
+	
 	public boolean visualizarSalidda(boolean acertada, int i, String newParam) {
+		return acertada;
+		
+		}
+	public boolean visualizarSaliddaa(boolean acertada, int i, String newParam) {
 		return acertada;
 		
 		}
